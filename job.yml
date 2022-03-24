@@ -1,0 +1,9 @@
+fasta_file: 
+  class: File
+  path: ./data/Chlamy_JGI5_5Cp_Mp_QProt.fasta
+wiff_archive: 
+  class: File
+  path: ./data/WCGr3_U2.tar
+assay_file:
+  class: File
+  path: ./data/assay.xlsx
