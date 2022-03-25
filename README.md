@@ -6,7 +6,7 @@ After the delegation workflow has finished execution, a pure CWL workflow gets e
 
 ![Workflow structure](data/workflow-structure.png)
 ## Execution
-In order to execute this workflow, first make sure that you have [Docker](https://www.docker.com/), [Cwltool](https://github.com/common-workflow-language/cwltool) and [git-lfs](https://git-lfs.github.com/) installed on your system. Afterwards, execute the following steps:
+In order to execute this workflow, first make sure that you have [Docker](https://www.docker.com/), [Cwltool](https://github.com/common-workflow-language/cwltool) and [git](https://git-scm.com/)+[git-lfs](https://git-lfs.github.com/) installed on your system. Afterwards, execute the following steps:
 
 1. Create an account and login on https://usegalaxy.eu/
 2. Go to https://usegalaxy.eu/user/api_key to obtain your API key
