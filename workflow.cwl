@@ -11,10 +11,7 @@ inputs:
   - id: assay_file
     type: File
 outputs:
-    history:
-      type: Directory
-      outputSource: proteomiqon-delegation-workflow/history
-    plot_file:
+  plot_file:
       type: File
       outputSource: plot-workflow/plot_file
 steps:
